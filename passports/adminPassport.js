@@ -1,3 +1,4 @@
+
 var Admin = require("../models/Admin.js");
 var passport = require("passport");
 var LocalStrategy = require("passport-local").Strategy;
@@ -19,7 +20,7 @@ passport.use('admin-local', new LocalStrategy(
 				}
 
 				if (newAdmin.validPassword(password, dbAdmin.password)) {
-					console.log("FUCKING AUTHENTICATED");
+					console.log("AUTHENTICATED");
 					return done(null, dbAdmin);
 				}
 				return done(null, false);

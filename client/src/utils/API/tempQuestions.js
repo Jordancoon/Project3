@@ -1,54 +1,49 @@
 let tempQuestions = [
     {
-    question: "What color is Red?",
-    correctAnswer: "Red",
-    possibleAnswers: ["Blue", "Red", "Green", "Purple"]
+    question: "yes - German",
+    correctAnswer: "Ja",
+    possibleAnswers: ["Bitte", "Ja", "Hallo", "Guten Tag"]
 },
 {
-    question: "What color is Yellow?",
-    correctAnswer: "Yellow",
-    possibleAnswers: ["Blue", "Red", "Green", "Yellow"]
+    question: "no - German",
+    correctAnswer: "Nein",
+    possibleAnswers: ["Ja", "Nein", "Hallo", "Tschus"]
 },
 {  
-    question: "What color is Blue?",
-    correctAnswer: "Blue",
-    possibleAnswers: ["Blue", "Red", "Green", "Purple"]
+    question: "please - german",
+    correctAnswer: "Bitte",
+    possibleAnswers: ["Bitte", "Tschus", "Gute Nacht", "Guten Morgen"]
 },
 {
-    question: "What color is Green?",
-    correctAnswer: "Green",
-    possibleAnswers: ["Blue", "Red", "Green", "Purple"]
+    question: "Calender - German",
+    correctAnswer: "Kalendar",
+    possibleAnswers: ["Jahr", "Morgen", "Kalendar", "Heute"]
 },
 {
-    question: "What color is Purple?",
-    correctAnswer: "Purple",
-    possibleAnswers: ["Blue", "Red", "Green", "Purple"]
+    question: "Good - German",
+    correctAnswer: "Gut",
+    possibleAnswers: ["Nein", "Ja", "Hallo", "Gut"]
 },
 {
-    question: "What color is Pink?",
-    correctAnswer: "Pink",
-    possibleAnswers: ["Blue", "Red", "Pink", "Purple"]
+    question: "Good Night - German",
+    correctAnswer: "Gute Nacht",
+    possibleAnswers: ["Guten Abend", "Guten Tag", "Gute Nacht", "Guten Morgen"]
 },
 {
-    question: "What color is White?",
-    correctAnswer: "White",
-    possibleAnswers: ["Blue", "Red", "White", "Purple"]
+    question: "Thank You - German",
+    correctAnswer: "Danke",
+    possibleAnswers: ["Nein", "Ja", "Danke", "Gut"]
 },
 {  
-    question: "What color is Orange?",
-    correctAnswer: "Orange",
-    possibleAnswers: ["Blue", "Red", "Green", "Orange"]
+    question: "One - German",
+    correctAnswer: "Eins",
+    possibleAnswers: ["Zwei", "Drei", "Null", "Eins"]
 },
 {
-    question: "What color is Gray?",
-    correctAnswer: "Gray",
-    possibleAnswers: ["Gray", "Red", "Green", "Purple"]
+    question: "Two - German",
+    correctAnswer: "Zwei",
+    possibleAnswers: ["Zwei", "Drei", "Eins", " Null"]
 },
-{   
-    question: "What color is Black?",
-    correctAnswer: "Black",
-    possibleAnswers: ["Blue", "Black", "Green", "Purple"]
-}
 ]
 
   export default tempQuestions;

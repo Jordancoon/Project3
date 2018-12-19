@@ -1,44 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# p3by5 - Venatus Education
 
-## Available Scripts
+[Click Here to Play](https://mysterious-thicket-42805.herokuapp.com/)
 
-In the project directory, you can run:
+[Click Here for Demo](https://drive.google.com/file/d/1U40UG6axzaC-mI0JCuYmzNpilhgGQznC/view)
 
-### `npm start`
+![Home](/client/src/images/screenshots/HomePage.png)
+![Registration](/client/src/images/screenshots/RegistrationPage.png)
+![Login](/client/src/images/screenshots/LoginPage.png)
+![Questions](/client/src/images/screenshots/Questions .png)
+![Game Admin](/client/src/images/screenshots/GameAdminPage.png)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+# Project Name
+Venatus Education is our Final Project for the UCLA Full Stack Coding Boot Camp
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Overview 
+Our game is intended to serve as a tool to reinforce information through game play.  Our game can be customized to display questions from any subject being covered in the classroom.  
 
-### `npm run build`
+## Future Enhancements
+- Ability to share a link or additional reference 
+- Ability to Select and store an avator for the user
+- Support CSV upload of Questions and Answers
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Developed by:
+- Tony Centeno [Contact Me](https://www.linkedin.com/in/tony-centeno-5a115516/)
+- Angel Delgadillo, Jr.  [Contact Me](https://www.linkedin.com/in/angeldelgadillojr/)
+- Eric Liu [Contact Me](https://www.linkedin.com/in/eric-liu-49a389a9/)
+- Regina Lo   [Contact Me](https://www.linkedin.com/in/tlo015/)
+- Janell Williams [Contact Me](https://www.linkedin.com/in/janell-carla-williams/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
